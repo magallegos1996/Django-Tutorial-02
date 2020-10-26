@@ -57,3 +57,8 @@ If you don't want to create a new user to get full access to the the demo, you c
 
 * **Username:** marcelo
 * **Password:** Ioet.1000
+### Tech Details
+| Tech | Version |
+| ------ | ------ |
+| Python | 3.9.0 |
+| Pip | 20.2.3 |
