@@ -3,7 +3,7 @@
  
  ### How to run the the project
  
- First, clone this repository executing the following command:
+ First, clone this repository with the following command:
  ```sh
 $ git clone https://github.com/magallegos1996/Django-Tutorial-02.git
 ```
